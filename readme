@@ -1,0 +1,26 @@
+
+**Sistema creado en python para la clase de estructura de datos**
+
+*Explicacion de uso*
+1. En la primera opcion podrás crear un producto que se almaceranrá en raiz/docs/productos.dat
+2. La segunda opcion te brinda la posibilidad de hacer una busqueda por codigo exacto de los productos
+3. Esta opcion te imprime en consola todos los productos que se encuentren cargados que por lo general son de raiz/docs/productos.dat
+4. Esta te imprimirá un mensaje de la sumatoria de tu valor de productos en inventarios
+5. Esporta todos los datos de tu inventario en un archivo, puedes dejar la ruta predeterminada o cambiarla.
+6. cargar un documento compatible de inventario, este de debe de guardar primero en docs.
+
+*------------------------------------------------*
+|      Bienvenido al sistema de inventario       |
+*------------------------------------------------*
+|             Seleccione una opción              |
+|                                                |
+|    1. Agregar producto                         |
+|    2. Buscar producto                          |
+|    3. Listar productos                         |
+|    4. Valor inventario productos               |
+|    5. Guardar en disco                         |
+|    6. Cargar documento                         |
+|    0. Salir                                    |
+*------------------------------------------------*
+Seleccione una opción [0-6] -> 
+
